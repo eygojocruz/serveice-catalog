@@ -15,6 +15,9 @@
         </style>
     </head>
     <body>
-        <h1>Service Catalog</h1>
+        <div id="root">
+        </div>
+        <script src="{{_asset('js/admin.js')}}"></script>
+        <script src="{{_asset('js/vendor.js')}}"></script>
     </body>
 </html>

@@ -15,6 +15,6 @@
         </style>
     </head>
     <body>
-        <h1>Service Catalog</h1>
+        <h1>This is the client side.</h1>
     </body>
 </html>
